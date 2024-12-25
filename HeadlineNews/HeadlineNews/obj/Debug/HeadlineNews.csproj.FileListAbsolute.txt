@@ -1,0 +1,10 @@
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\bin\Debug\HeadlineNews.exe.config
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\bin\Debug\HeadlineNews.exe
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\bin\Debug\HeadlineNews.pdb
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\obj\Debug\HeadlineNews.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\obj\Debug\HeadlineNews.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\obj\Debug\HeadlineNews.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\obj\Debug\HeadlineNews.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\obj\Debug\HeadlineNews.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\obj\Debug\HeadlineNews.exe
+C:\Users\bengi\Desktop\C# Projects\HeadlineNews\HeadlineNews\obj\Debug\HeadlineNews.pdb
