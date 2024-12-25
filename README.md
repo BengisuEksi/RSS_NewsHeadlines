@@ -1,6 +1,6 @@
 # RSS News Headlines Project
 
-This repository contains a simple RSS reader project built with C# .NET . The purpose of this project is to demonstrate the usage of RSS feeds by fetching and displaying news headlines from three different websites.
+This repository contains a simple RSS reader project built with C# .NET . The purpose of this project is to demonstrate the usage of RSS feeds by fetching and displaying news headlines from different websites.
 
 ## What is RSS?
 
