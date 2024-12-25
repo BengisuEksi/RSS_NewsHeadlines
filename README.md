@@ -4,7 +4,7 @@ This repository contains a simple RSS reader project built with C# .NET . The pu
 
 ## What is RSS?
 
-RSS (Really Simple Syndication) is a web feed format used to publish frequently updated information, such as news articles, blog posts, or videos. It allows users to stay updated on websites by aggregating content into a single place, such as an RSS reader application. The format is XML-based and provides a standardized way to share and consume content.
+RSS (Rich Site Summary) is a web feed format used to publish frequently updated information, such as news articles, blog posts, or videos. It allows users to stay updated on websites by aggregating content into a single place, such as an RSS reader application. The format is XML-based and provides a standardized way to share and consume content.
 
 ## Project Overview
 
